@@ -1,5 +1,5 @@
 import conditions as c
-
+import pandas as pd
 
 #
 # for i in range(len(fruits)):
