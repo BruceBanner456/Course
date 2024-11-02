@@ -1,3 +1,6 @@
+import pandas
+
+
 def test_fruits(fruits):
     for i in range(len(fruits)):
         if "berry" in fruits[i]:
